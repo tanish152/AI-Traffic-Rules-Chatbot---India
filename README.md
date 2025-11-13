@@ -70,10 +70,10 @@
 ## 🖼️ Screenshots
 
 ### Day Mode
-![Day Mode Interface](/assets/day-mode.png)
+![Day Mode Interface](daymode.png)
 
 ### Night Mode
-![Night Mode Interface](/assets/night-mode.png)
+![Night Mode Interface](nightmode.png)
 
 ---
 
