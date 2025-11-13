@@ -24,7 +24,6 @@
 - [Getting Started](#-getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Running Locally](#running-locally)
 - [Project Structure](#-project-structure)
 - [How It Works](#-how-it-works)
 - [Database Statistics](#-database-statistics)
@@ -134,7 +133,7 @@ ai-traffic-rules-assistant/
 │
 ├── data/
 │   ├── traffic_rules.xlsx
-│   └── city_metadata.csv
+│   
 │
 ├── assets/
 │   ├── day-mode.png
@@ -204,7 +203,7 @@ MIT License
 
 ## 📞 Contact
 
-**Maintainer:** Your Name  
+**Maintainer:** Tanish Khokha
 Project Link: https://github.com/tanish152/ai-traffic-rules-assistant  
 Live Demo: https://aitrafficrulechatbot.streamlit.app/
 
