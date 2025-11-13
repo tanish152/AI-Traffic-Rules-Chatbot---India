@@ -6,7 +6,6 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aitrafficrulechatbot.streamlit.app/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/yourusername/ai-traffic-rules-assistant/graphs/commit-activity)
 
 [Live Demo](https://aitrafficrulechatbot.streamlit.app/) • [Report Bug](https://github.com/yourusername/ai-traffic-rules-assistant/issues) • [Request Feature](https://github.com/yourusername/ai-traffic-rules-assistant/issues)
@@ -197,13 +196,13 @@ Steps:
 
 ## 📄 License
 
-MIT License  
+GNU Affero General Public License v3.0
 
 ---
 
 ## 📞 Contact
 
-**Maintainer:** Tanish Khokha
+**Maintainer:** Tanish Khokha Samridhi Gupta
 Project Link: https://github.com/tanish152/ai-traffic-rules-assistant  
 Live Demo: https://aitrafficrulechatbot.streamlit.app/
 
