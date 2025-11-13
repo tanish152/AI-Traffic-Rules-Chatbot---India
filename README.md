@@ -100,7 +100,7 @@ python --version
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/ai-traffic-rules-assistant.git
+git clone https://github.com/tanish152/ai-traffic-rules-assistant.git
 cd ai-traffic-rules-assistant
 ```
 
@@ -205,7 +205,7 @@ MIT License
 ## 📞 Contact
 
 **Maintainer:** Your Name  
-Project Link: https://github.com/yourusername/ai-traffic-rules-assistant  
+Project Link: https://github.com/tanish152/ai-traffic-rules-assistant  
 Live Demo: https://aitrafficrulechatbot.streamlit.app/
 
 ---
