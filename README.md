@@ -8,7 +8,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/yourusername/ai-traffic-rules-assistant/graphs/commit-activity)
 
-[Live Demo](https://aitrafficrulechatbot.streamlit.app/) • [Report Bug](https://github.com/yourusername/ai-traffic-rules-assistant/issues) • [Request Feature](https://github.com/yourusername/ai-traffic-rules-assistant/issues)
+[Live Demo](https://aitrafficrulechatbot.streamlit.app/) • • 
 
 </div>
 
